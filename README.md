@@ -18,7 +18,8 @@ members.
 last five years.
 
 ## Project steps
-1.Downloading and looking into the data.
+
+1. Downloading and looking into the data.
 2. Providing a theoretical proof based on the equation of linear regression. The
 features are multiplied by an invertible matrix. Showing that the quality of the
 model is the same for both sets of parameters: the original features and the
@@ -27,7 +28,7 @@ Linear Algebra.
 for these models related?
 4. Stating an algorithm for data transformation to solve the task. Explaining why the
 linear regression quality won't change based on the proof above.
-5.Programing the algorithm using matrix operations. Making sure that the quality of
+5. Programing the algorithm using matrix operations. Making sure that the quality of
 linear regression from sklearn is the same before and after transformation. Use
 the R2 metric
 
