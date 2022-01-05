@@ -1,4 +1,4 @@
-# Linear_Algebra_Find_Similar_Clients
+# ML_Linear_Algebra_Find_Similar_Clients
 The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility. 
 - Task 1: Find customers who are similar to a given customer. This will help the company's agents with marketing. 
 - Task 2: Predict whether a new customer is likely to receive an insurance benefit. Can a prediction model do better than a dummy model? 
